@@ -1,0 +1,16 @@
+{
+	"Loged": [
+		{
+			"id": 1,
+      "name": "Luis Miguel",
+      "age": 20,
+      "logged": true
+    },
+		{
+			"id": 2,
+      "name": "Juan Perea",
+      "age": 37,
+      "logged": false
+    }
+  ]
+}
