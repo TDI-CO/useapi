@@ -29,24 +29,6 @@
               "name": "Prenda 5",
               "info": "Esta prenda es una chimba",
               "status": "Pre-aprobada"
-            },
-            {
-                "id": 6,
-                "name": "Prenda 6",
-                "info": "Esta prenda es lo mejor",
-                "status": "Pre-aprobada"
-              },
-              {
-                "id": 7,
-                "name": "Prenda 7",
-                "info": "Esta prenda es lo peor",
-                "status": "Rechazada"
-              },
-              {
-                "id": 8,
-                "name": "Prenda 8",
-                "info": "Esta prenda es una locura",
-                "status": "Pre-aprobada"
-              }
+            }
     ]
 }
