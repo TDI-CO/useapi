@@ -1,34 +1,40 @@
 {
-    "Garments": [
+  "Garments": [
+      {
+          "id": 1,
+          "name": "Prenda 1",
+          "info": "Esta prenda es una chimba",
+          "status": "Pre-aprobada",
+          "img": "https://i.linio.com/p/98d0be55734df948917d8fb639dc5565-catalog.jpg"
+        },
         {
-            "id": 1,
-            "name": "Prenda 1",
-            "info": "Esta prenda es una chimba",
-            "status": "Pre-aprobada"
+            "id": 2,
+            "name": "Prenda 2",
+            "info": "Esta prenda es lo mejor",
+            "status": "Pre-aprobada",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlT7lNhvkjfgOHX03bun2bbWQcbeD-WvFZiYZtyrysD2QVmtPkKu_7dg_iCO4535buWO0&usqp=CAU"
           },
           {
-              "id": 2,
-              "name": "Prenda 2",
-              "info": "Esta prenda es lo mejor",
-              "status": "Pre-aprobada"
-            },
-            {
-              "id": 3,
-              "name": "Prenda 3",
-              "info": "Esta prenda es lo peor",
-              "status": "Rechazada"
-            },
-            {
-              "id": 4,
-              "name": "Prenda 4",
-              "info": "Esta prenda es una locura",
-              "status": "Pre-aprobada"
-            },
-            {
-              "id": 5,
-              "name": "Prenda 5",
-              "info": "Esta prenda es una chimba",
-              "status": "Pre-aprobada"
-            }
-    ]
+            "id": 3,
+            "name": "Prenda 3",
+            "info": "Esta prenda es lo peor",
+            "status": "Rechazada",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcelPu8qGkKDnmMdfhY3-fVaQLKzgccnrsjlOC3IkPxR1gzMaPmVGHtZMEgmJqed6eb4&usqp=CAU"
+          },
+          {
+            "id": 4,
+            "name": "Prenda 4",
+            "info": "Esta prenda es una locura",
+            "status": "Pre-aprobada",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL7TsjRSUZZ-dtY304vn3UbDdlLNGzMnGdUfY3tRFpSC_Q--b5vC-_2jfEiPBbeQPQuk&usqp=CAU"
+
+          },
+          {
+            "id": 5,
+            "name": "Prenda 5",
+            "info": "Esta prenda es una chimba",
+            "status": "Pre-aprobada",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRo7UeihtWmfAhVZDl0_vF5iuIfCAQerALQ&usqp=CAU"
+          }
+  ]
 }
