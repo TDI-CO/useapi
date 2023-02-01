@@ -2,39 +2,39 @@
   "Garments": [
       {
           "id": 1,
-          "name": "Prenda 1",
-          "info": "Esta prenda es una chimba",
+          "name": "Sueter azul",
+          "info": "Superior / Sueter",
           "status": "Pre-aprobada",
           "img": "https://i.linio.com/p/98d0be55734df948917d8fb639dc5565-catalog.jpg"
         },
         {
             "id": 2,
-            "name": "Prenda 2",
-            "info": "Esta prenda es lo mejor",
+            "name": "Blusa H&M",
+            "info": "Superior / Blusa",
             "status": "Pre-aprobada",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlT7lNhvkjfgOHX03bun2bbWQcbeD-WvFZiYZtyrysD2QVmtPkKu_7dg_iCO4535buWO0&usqp=CAU"
           },
           {
             "id": 3,
-            "name": "Prenda 3",
-            "info": "Esta prenda es lo peor",
+            "name": "Blusa Roja",
+            "info": "Superior / Blusa",
             "status": "Rechazada",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcelPu8qGkKDnmMdfhY3-fVaQLKzgccnrsjlOC3IkPxR1gzMaPmVGHtZMEgmJqed6eb4&usqp=CAU"
           },
           {
             "id": 4,
-            "name": "Prenda 4",
-            "info": "Esta prenda es una locura",
+            "name": "Tacones",
+            "info": "Inferior / Tacones",
             "status": "Pre-aprobada",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL7TsjRSUZZ-dtY304vn3UbDdlLNGzMnGdUfY3tRFpSC_Q--b5vC-_2jfEiPBbeQPQuk&usqp=CAU"
+            "img": "https://www.puntoblanco.co/dx/api/dam/custom/2020/PB/ES-CO/Imagenes/Mujeres/Zapatos/Loni_Tacones/566x715/Zapatos-Mujer-Loni-Cafe-10856-Frente-Punto-Blanco.jpg"
 
           },
           {
             "id": 5,
-            "name": "Prenda 5",
-            "info": "Esta prenda es una chimba",
+            "name": "Gorro cafe",
+            "info": "Accesorio / Gorro",
             "status": "Pre-aprobada",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRo7UeihtWmfAhVZDl0_vF5iuIfCAQerALQ&usqp=CAU"
+            "img": "https://ewr1.vultrobjects.com/aldo/images/nydaydda_brown_200_main_sq_nt_4800x4800.jpg"
           }
   ]
 }
