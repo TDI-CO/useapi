@@ -1,16 +1,51 @@
-{
-	"Loged": [
-		{
-			"id": 1,
-      "name": "Luis Miguel",
-      "age": 20,
-      "logged": true
+[
+    {
+      "id": 1,
+      "name": "Prenda 1",
+      "info": "Esta prenda es una chimba",
+      "status": "Pre-aprobada"
     },
-		{
-			"id": 2,
-      "name": "Juan Perea",
-      "age": 37,
-      "logged": false
-    }
+    {
+        "id": 2,
+        "name": "Prenda 2",
+        "info": "Esta prenda es lo mejor",
+        "status": "Pre-aprobada"
+      },
+      {
+        "id": 3,
+        "name": "Prenda 3",
+        "info": "Esta prenda es lo peor",
+        "status": "Rechazada"
+      },
+      {
+        "id": 4,
+        "name": "Prenda 4",
+        "info": "Esta prenda es una locura",
+        "status": "Pre-aprobada"
+      },
+      {
+        "id": 5,
+        "name": "Prenda 5",
+        "info": "Esta prenda es una chimba",
+        "status": "Pre-aprobada"
+      },
+      {
+          "id": 6,
+          "name": "Prenda 6",
+          "info": "Esta prenda es lo mejor",
+          "status": "Pre-aprobada"
+        },
+        {
+          "id": 7,
+          "name": "Prenda 7",
+          "info": "Esta prenda es lo peor",
+          "status": "Rechazada"
+        },
+        {
+          "id": 8,
+          "name": "Prenda 8",
+          "info": "Esta prenda es una locura",
+          "status": "Pre-aprobada"
+        }
+      
   ]
-}
