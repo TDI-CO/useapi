@@ -5,6 +5,7 @@
           "name": "Sueter azul",
           "info": "Superior / Sueter",
           "status": "Pre-aprobada",
+          "time": "30m",
           "img": "https://i.linio.com/p/98d0be55734df948917d8fb639dc5565-catalog.jpg"
         },
         {
@@ -12,6 +13,7 @@
             "name": "Blusa H&M",
             "info": "Superior / Blusa",
             "status": "Pre-aprobada",
+            "time": "3m",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlT7lNhvkjfgOHX03bun2bbWQcbeD-WvFZiYZtyrysD2QVmtPkKu_7dg_iCO4535buWO0&usqp=CAU"
           },
           {
@@ -19,6 +21,7 @@
             "name": "Blusa Roja",
             "info": "Superior / Blusa",
             "status": "Rechazada",
+            "time": "15m",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcelPu8qGkKDnmMdfhY3-fVaQLKzgccnrsjlOC3IkPxR1gzMaPmVGHtZMEgmJqed6eb4&usqp=CAU"
           },
           {
@@ -26,6 +29,7 @@
             "name": "Tacones",
             "info": "Inferior / Tacones",
             "status": "Pre-aprobada",
+            "time": "20m",
             "img": "https://www.petuniaropa.com/wp-content/uploads/2022/10/37Tacones-Punta-Abierta-Con-Hebilla-Delgada-Negro1-500x750.jpg"
 
           },
@@ -34,6 +38,7 @@
             "name": "Gorro cafe",
             "info": "Accesorio / Gorro",
             "status": "Pre-aprobada",
+            "time": "1H",
             "img": "https://ewr1.vultrobjects.com/aldo/images/nydaydda_brown_200_main_sq_nt_4800x4800.jpg"
           },
     {
@@ -41,6 +46,7 @@
             "name": "Collar",
             "info": "Accesorio / Collar",
             "status": "Pre-aprobada",
+            "time": "15s",
             "img": "https://ae01.alicdn.com/kf/Seceb63d6cd6047338402b1391cdfe008i/Caja-de-joyer-a-con-patr-n-de-flores-para-collar-caja-de-regalo-rectangular-con.jpg_Q90.jpg_.webp"
           }
   ]
