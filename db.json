@@ -1,19 +1,4 @@
 {
-  "Users": [
-    {
-      "id": 1,
-      "name": "León Alejandro",
-      "lastName": "Flor Sandoval",
-      "age": 17
-    },
-    {
-      "id": 2,
-      "name": "Valeria",
-      "lastName": "Artunduaga Valencia",
-      "age": 17
-    }
-  ],
-
   "Garments": [
     {
       "id": 1,
